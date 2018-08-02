@@ -1,0 +1,15 @@
+{
+  "name": "zodiaccruz",
+  "version": "1.0.0",
+  "description": "retweets ted cruz's tweets in the zodiac killer's handwriting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taylor Smith",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-image": "^2.0.0",
+    "pdfkit": "^0.8.3"
+  }
+}
